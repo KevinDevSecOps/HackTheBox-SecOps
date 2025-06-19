@@ -1,2 +1,33 @@
 Incluye archivos que deseas ignorar en el repositorio.
 *.log*.pycpycache
+# Archivos de caché
+*.pyc
+__pycache__/
+
+# Archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+*.env
+*.log
+config.json
+
+# Archivos de herramientas específicas
+*.nmap
+*.pcap
+
+# Archivos de credenciales o claves
+id_rsa
+id_rsa.pub
+*.pem
+
+# Archivos generados por el entorno de desarrollo
+.vscode/
+.idea/
+*.swp
+
+# Archivos de paquetes y dependencias
+node_modules/
+dist/
+build/
