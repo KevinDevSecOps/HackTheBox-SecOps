@@ -14,6 +14,19 @@ Este repositorio documenta mi aprendizaje en HackTheBox y otros entornos de cibe
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/<tu-usuario>/HackTheBox-SecOps.git
+
+2. Explora las carpetas:
+
+• scripts: Scripts para automatizar tareas.
+
+• documentation: Guías de aprendizaje.
+
+3. Ejecuta scripts:
+
+• Por ejemplo, para un escaneo básico:
+
+python3 scripts/nmap_scan.py
+
 > **Hecho con ❤️ por KevinDevSecOps**
 
 ---
