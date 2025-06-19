@@ -46,4 +46,9 @@ Este proyecto está bajo la licencia MIT.
 Este proyecto es un reflejo de mi pasión por la seguridad informática y el pentesting. Gracias a HackTheBox por proporcionar un entorno tan increíble para aprender.
 
 
-Hecho con ❤️ por KevinDevSecOps
+
+“📌 Proyecto de seguridad informática y pentesting basado en mi experiencia en HackTheBox. Este repositorio incluye herramientas y scripts para escaneo, monitoreo y escalación de privilegios, junto con documentación detallada sobre técnicas de seguridad. Ideal para estudiantes y profesionales que buscan aprender o perfeccionar sus habilidades en ciberseguridad.
+
+Hecho con ❤️ por KevinDevSecOps.”
+
+
