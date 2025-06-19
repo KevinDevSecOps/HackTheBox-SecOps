@@ -14,3 +14,6 @@ Este repositorio documenta mi aprendizaje en HackTheBox y otros entornos de cibe
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/<tu-usuario>/HackTheBox-SecOps.git
+> **Hecho con ❤️ por KevinDevSecOps**
+
+---
