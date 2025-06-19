@@ -1,0 +1,2 @@
+Incluye archivos que deseas ignorar en el repositorio.
+*.log*.pycpycache
