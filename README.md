@@ -27,6 +27,23 @@ Este repositorio documenta mi aprendizaje en HackTheBox y otros entornos de cibe
 
 python3 scripts/nmap_scan.py
 
-> **Hecho con ❤️ por KevinDevSecOps**
+🤝 Contribuciones
 
----
+Las contribuciones son bienvenidas. Si deseas colaborar:
+
+1. Revisa el archivo CONTRIBUTING.md.
+
+2. Abre un Pull Request con tus mejoras.
+
+
+📄 Licencia
+
+Este proyecto está bajo la licencia MIT.
+
+
+🌟 Agradecimientos
+
+Este proyecto es un reflejo de mi pasión por la seguridad informática y el pentesting. Gracias a HackTheBox por proporcionar un entorno tan increíble para aprender.
+
+
+Hecho con ❤️ por KevinDevSecOps
